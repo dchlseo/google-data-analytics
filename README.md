@@ -3,6 +3,7 @@
 &nbsp;
 
 ![cert_img](https://github.com/dchlseo/google-data-analytics/assets/70427747/47c59c34-2275-4527-8441-e9a5791baeba)
+
 [view this cert](https://coursera.org/verify/professional-cert/D7ZLHA3UKQAV)
 
 * This repository written for reference and self-documentation purposes.
